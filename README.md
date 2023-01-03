@@ -1,5 +1,5 @@
 # Animated Donate Button to Flip-Coin
-This is a fun, interactive donate button that flips a coin when clicked. It is built using HTML, CSS, and JavaScript
+This is a fun, interactive donate button that flips a coin when clicked. It is built using HTML, CSS, and JavaScript.
 
 ## Installation
 To use this donate button on your website, simply download the `index.html`, `style.css`, and `script.js` files and include them in your project. You will also need to include a font library, such as [Google Fonts](https://fonts.google.com/), in the `index.html` file.
